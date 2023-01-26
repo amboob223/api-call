@@ -1,0 +1,2 @@
+// it matters when you put the buttion inside a form to fix the error we had to take it out the form 
+I think the method of post gets invoke when the button is inside the form tags
